@@ -1,0 +1,11 @@
+------STUDENT REPORT------
+Name           : chithra
+Register Number: 4
+Department: cse
+College Name: ABC COLLEGE
+Age: 20
+CGPA: 8.88
+Total          : 412
+Average        : 82.40
+Grade          : A
+------------------------------
